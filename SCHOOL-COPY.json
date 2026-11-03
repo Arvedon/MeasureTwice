@@ -1,0 +1,209 @@
+{
+  "schema": 1,
+  "repository": "Arvedon/MeasureTwice",
+  "site": "https://arvedon.github.io/MeasureTwice/",
+  "buildId": "0.1.0_Predict-Cut-Inspect_local-abigail-polish-20261014_build-006_20261014T223550Z_g0a4ff39f45e7_web",
+  "runtimeRevision": "0a4ff39f45e7063ca71a72d71add03cff5546e37",
+  "runtimeBuiltAt": "2026-10-14T22:35:50.364Z",
+  "sourceFingerprint": "c243313ba8a30bd2e1273ab37de7a03db3594c94fe4b3042d28caefa3d506e7b",
+  "originalRepository": "https://github.com/AbbyUsesAIThatCodes/MeasureTwice",
+  "acceptedPR": 36,
+  "sourceMerge": "0b2f288678c2a419e66c475cf8228fd87a453a76",
+  "preparedAt": "2026-11-03T01:56:43.175Z",
+  "policy": "Copy the owner-approved historical runtime without rebuilding or relabeling. Public documentation uses the existing student-safe reference. No review archives, teacher authoring documents, personal saves or student records.",
+  "hosting": "GitHub Pages: main / (root), as authorized for the Arvedon school copy. No custom build workflow.",
+  "files": [
+    {
+      "path": "BUILD_REPORT.json",
+      "bytes": 976,
+      "sha256": "cd2f8c34e90893c84134b4f25decac8fa8d825dbe654c9ec668d6b8115534c40",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "build-manifest.json",
+      "bytes": 939,
+      "sha256": "f96cfe0949275c22cafc5ed4f344141bac66d1ae449e4c4e61e48e69059c6be1",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "data/house.json",
+      "bytes": 1227,
+      "sha256": "8fc1262ab7b08002336b615b195e9659ea2050b9eca12a8f317a3f5d9e7eed9c",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "dm-bellringer-cube.svg",
+      "bytes": 562,
+      "sha256": "fef0b3351a7f4a94c64a758d827aa0c048e2bfc92803f7f4afa0168e430f07fb",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "docs/curriculum-content.md",
+      "bytes": 1436,
+      "sha256": "c026479f9c5c14cdf8be0fa71366360048b62fb831993b7b33c93e2ae3b5096a",
+      "origin": "Existing approved public student reference"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5860,
+      "sha256": "969a2ae7a73ad391369cdd06fcbeed2462fc006b51f394c84a457af58abefa9f",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "reference.css",
+      "bytes": 7722,
+      "sha256": "89ca4bb31e5300c823baf60b181ef6324cf548ee27b27d99aac0a3ecdd917a71",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/app.js",
+      "bytes": 46676,
+      "sha256": "df93a74e7e87ba51de4ef990c15da9dd8600f8535b2b5384c84d5da804e1c830",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/assessment.js",
+      "bytes": 5398,
+      "sha256": "24cb19cac0f7fae0287140cbe1dff8794b1fd432b3bf6f1e49feacf02d9812b8",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/build-display.js",
+      "bytes": 230,
+      "sha256": "175baf5475109ed87d17ef7645522279f7fc32e99665e99e7179e692295d9519",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/catalog-progress.js",
+      "bytes": 6524,
+      "sha256": "1627181d2f93bdd3a2884c597c4242abfede4c4df3edd6a9ac9be29a462dbb8a",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/catalog.js",
+      "bytes": 11252,
+      "sha256": "4ce6182f42d68254a3f194a796be9b9535dbc9ab3d2166d8ef61c8cf82d0ecd6",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/construction.js",
+      "bytes": 6778,
+      "sha256": "2804a0bef4b101162e03adc7afb35c90ce7009ff63d2bc414aecc06ee16fb240",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/content.js",
+      "bytes": 17986,
+      "sha256": "21fcba40fe85fe2ae2829c7f83635069156b1cba61ebbc60942efd8633964a4c",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/grid.js",
+      "bytes": 1145,
+      "sha256": "c37e384f7ae570902c64c2bf54b7148f0aa26b761a3c5bee2ed7454249e81245",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/instruments.js",
+      "bytes": 1560,
+      "sha256": "165b9b04f58d99a7fba5efb570639d0c7780f80b5b7d1fdd5733428d9f0ea5ae",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/intervals.js",
+      "bytes": 1433,
+      "sha256": "9a8998a9ec34e1971122033de2f7abfe234e7c69816717a1087c7bb0cce81b9b",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/layout.js",
+      "bytes": 1123,
+      "sha256": "555d087736f43267d8ec959cebdbba23010efe20d82dbce134b0aa641535ebfb",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/learning.js",
+      "bytes": 22619,
+      "sha256": "4fe4de16c0a088d4df2ae6a894e1938755df5b774e5642a2a4a4656fff4f7d2f",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/lesson-flow.js",
+      "bytes": 1056,
+      "sha256": "31b855d079a8cdc51ff10fa0007529813582f7df23de4666c7f46b1af8d2a283",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/miniatures.js",
+      "bytes": 1747,
+      "sha256": "435fdfcc9ed76ad0dac3187f1957c59d7c6d8d4d2db0c0cf7fe383429b86da47",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/model.js",
+      "bytes": 4448,
+      "sha256": "f68b73266b5744cfda22df052edbdd9782b63f4cd7c7635dadc18767cb0fc709",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/recipes.js",
+      "bytes": 2104,
+      "sha256": "16ae2998bfe146d09f34df8b71349037ec2808f38505bbdb6f5f8fadeb09c59a",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/room.js",
+      "bytes": 4609,
+      "sha256": "184bb79cced7486b9e04e445b0bc459c70364024886ed34802b939843d5fa255",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/support-history.js",
+      "bytes": 260,
+      "sha256": "7f177b74a02a3b3f9e9ddc92b03173516d6a6a8acce8e621cabe3bf8de8f2e6d",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/view-limits.js",
+      "bytes": 1320,
+      "sha256": "9fd53e0e9d2807ba2e463ea2293c3c067994a14914ded049e663e2cac053e0c1",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/window-daylight.js",
+      "bytes": 1434,
+      "sha256": "bf4d31e82594b945be6375a7a75db428a449cec41f06b8d6febb56adcd641b84",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "src/workshop.js",
+      "bytes": 14293,
+      "sha256": "af894372d19f1f52127f4468ade5c51df3395e0c03797cd63017b580eb3fc104",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "style.css",
+      "bytes": 9146,
+      "sha256": "2757daebdfbdc9b91662d1bcc0b601a7cc7ba6c7bd1b8a65844ac3fc31bbca6c",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "vendor/three-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    },
+    {
+      "path": "vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+      "origin": "Unchanged accepted Workshop Polish build 006"
+    }
+  ]
+}
